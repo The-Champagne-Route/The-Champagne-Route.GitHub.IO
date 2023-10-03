@@ -6,7 +6,7 @@ tags: [erie, bh, bath]     # TAG names should always be lowercase
 pin: true
 ---
 
-# Erie Passenger Station at Bath, NY
-
 ![Erie Passenger Station at Bath, NY from 1909](/assets/img/buildings/erie-station-bath-ny-1909-01.jpg){: width="700" height="400" }
 _1909 photo by J.E. Bailey_
+
+The Erie Passenger Station was used by the B&H until 1918, when the Bath & Hammondsport did away with passenger service. The Erie Railroad maintained passenger service into the 1950s. And the station was torn down soon after.
