@@ -1,5 +1,5 @@
 ---
-title: Erie Passenger Station at Bath, NY
+title: Erie Passenger Station - Bath, NY
 date: 2023-10-02 08:01:37 +/-0400
 categories: [Buildings, Passenger Station]
 tags: [erie, bh, bath]     # TAG names should always be lowercase
