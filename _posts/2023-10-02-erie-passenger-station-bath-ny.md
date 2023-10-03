@@ -8,5 +8,5 @@ pin: true
 
 # Erie Passenger Station at Bath, NY
 
-![Erie Passenger Station at Bath, NY from 1909](/assests/img/buildings/erie-station-bath-ny-1909.jpg)
+![Erie Passenger Station at Bath, NY from 1909](/assests/img/buildings/erie-station-bath-ny-1909-01.jpg)
 _1909 photo by J.E. Bailey_
