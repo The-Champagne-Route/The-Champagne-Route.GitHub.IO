@@ -7,4 +7,4 @@ image: /assets/img/buildings/erie-station-bath-ny-1909-01.jpg
 ---
 The Erie Passenger Station was used by the Bath and Hammondsport until 1918, when passenger service ended in tandem with the steamboat service on Keuka Lake. The Erie Railroad maintained passenger service into the 1950s. And the station was torn down soon after.
 
-1909 photo by Erie Railroad Photographer, J.E. Bailey
+1909 Photo by Erie Railroad Photographer, J.E. Bailey
