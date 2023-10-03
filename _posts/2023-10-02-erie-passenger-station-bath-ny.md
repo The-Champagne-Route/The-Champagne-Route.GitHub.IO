@@ -5,6 +5,6 @@ categories: [Buildings, Passenger Station]
 tags: [erie, bh, bath]     # TAG names should always be lowercase
 image: /assets/img/buildings/erie-station-bath-ny-1909-01.jpg
 ---
-The Erie Passenger Station was used by the Bath and Hammondsport until 1918, when the B & H did away with passenger service. The Erie Railroad maintained passenger service into the 1950s. And the station was torn down soon after.
+The Erie Passenger Station was used by the Bath and Hammondsport until 1918, when the B&and;H did away with passenger service. The Erie Railroad maintained passenger service into the 1950s. And the station was torn down soon after.
 
 1909 photo by Erie Railroad Photographer, J.E. Bailey
