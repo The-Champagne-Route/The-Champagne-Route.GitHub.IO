@@ -1,5 +1,5 @@
 ---
-title: Erie Railroad Passenger Station — Bath, NY
+title: Erie Railroad Passenger Station - Bath, NY
 date: 2023-10-02 08:01:37 +/-0400
 categories: [Structures, Passenger Station]
 tags: [erie, bh, bath]     # TAG names should always be lowercase
