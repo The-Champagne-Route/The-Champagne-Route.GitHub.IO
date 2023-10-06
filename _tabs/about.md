@@ -4,6 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# A nine-mile shortline 
-
-Located in Steuben County, NY.
+A nine-mile short-line located in Steuben County, NY.
