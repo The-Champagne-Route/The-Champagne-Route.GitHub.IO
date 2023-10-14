@@ -23,10 +23,10 @@ title: Bath and Hammondsport Railroad # the main title
 tagline: The Champagne Route # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Documenting explorations into this nine-mile short-line located in Steuben County, NY.
+  Documenting explorations into the history of this nine-mile short-line railroad located along the Southern Tier in Steuben County, New York 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://the-champagne-route.github.io"
+url: "https://the-champagne-route.org"
 
 github:
   username: the-champagne-route # change to your github username
