@@ -1,3 +1,3 @@
 # Bath & Hammondsport Railroad
 
-## The Champagne Trail
+## The Champagne Route
