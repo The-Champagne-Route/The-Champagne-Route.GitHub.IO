@@ -3,8 +3,8 @@ title: Timeline of the Champagne Route
 date: 2023-10-08 05:01:11 -4000
 tags: [timeline]     # TAG names should always be lowercase
 image:
-  path: /assets/img/structure/passenger-station/bh-station-hammondsport-ny-1909-01.jpg
-  lqip: data:image/assets/img/structure/passenger-station/bh-station-hammondsport-ny-1909-01-lqip.jpg
+  path: /assets/img/structures/passenger-station/bh-station-hammondsport-ny-1909-01.jpg
+  lqip: data:image/assets/img/structures/passenger-station/bh-station-hammondsport-ny-1909-01-lqip.jpg
   alt: Bath & Hammondsport Station in Hammondsport, NY — taken by J.E. Bailey, Photographer, Erie Railroad — circa 1900-1909
 ---
 ## 1872
@@ -38,7 +38,7 @@ The B & H line is completed
 ## 1889
 ### August 17 
  : Track was re-laid to standard gauge
- 
+
 ## 1890
 Drake takes control of B&H
  : And the Lake Keuka Navigation Company soon after
