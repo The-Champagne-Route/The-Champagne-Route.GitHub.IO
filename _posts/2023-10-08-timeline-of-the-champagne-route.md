@@ -15,7 +15,7 @@ January 17
 ### April 21
 #### Captain Wood
 Hammondsport Herald, Wed., April 21, 1875
- : Capt. Wood has been in Smithville, N.Y., the past week, sperintending the removal of the iron for our rail road. The work is being pushed rapidly forward by T.E. Rollins, of Corning, who has charge of the work. They were delayed two days last week by the fall of a foot of snow, and the washing away of a bank by the high water. The rails will be sent to Bath as fast as they can get car loads made up.
+ : Capt. Wood has been in Smithville, N.Y., the past week, superintending the removal of the iron for our rail road. The work is being pushed rapidly forward by T.E. Rollins, of Corning, who has charge of the work. They were delayed two days last week by the fall of a foot of snow, and the washing away of a bank by the high water. The rails will be sent to Bath as fast as they can get car loads made up.
 
 ### April 28
 #### Captain Wood
