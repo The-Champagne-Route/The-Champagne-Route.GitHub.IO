@@ -4,7 +4,7 @@ date: 2023-10-08 05:01:11 -4000
 tags: [timeline]     # TAG names should always be lowercase
 image:
   path: /assets/img/structures/slipway/steamer-mary-bell-slipway-hammondsport-ny.jpg
-  lqip: data:image/assets/img/structures/slipway/steamer-mary-bell-slipway-hammondsport-ny-lqip.jpg
+  lqip: /assets/img/structures/slipway/steamer-mary-bell-slipway-hammondsport-ny-lqip.jpg
   alt: Steamer Mary Bell in the Slipway at Hammondsport, NY — photo courtesy of Steuben County Historical Society — Kirk House, Director  
 ---
 ## 1872

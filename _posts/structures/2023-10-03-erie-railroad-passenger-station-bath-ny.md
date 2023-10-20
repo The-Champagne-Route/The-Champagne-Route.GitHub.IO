@@ -4,7 +4,7 @@ date: 2023-10-03 05:03:33 -4000
 tags: [erie, passenger-station, bath]     # TAG names should always be lowercase
 image:
   path: /assets/img/structures/passenger-station/erie-station-bath-ny-1909-05.jpg
-  lqip: data:image/assets/img/structures/passenger-station/erie-station-bath-ny-1909-05-lqip.jpg
+  lqip: /assets/img/structures/passenger-station/erie-station-bath-ny-1909-05-lqip.jpg
   alt: Bath & Hammondsport passenger cars at the Erie Station in Bath, NY — circa 1900-1909
 order: 1
 ---
