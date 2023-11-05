@@ -1,5 +1,5 @@
 ---
-title: Bath and Hammondsport Railroad Organized
+title: Incorporation of the Bath and Hammondsport Railroad
 date: 1872-01-17 05:01:11 -4000
 tags: [organized]     # TAG names should always be lowercase
 image:
