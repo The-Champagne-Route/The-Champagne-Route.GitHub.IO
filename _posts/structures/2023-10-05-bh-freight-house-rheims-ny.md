@@ -1,5 +1,5 @@
 ---
-title: B&H Freight House — Rheims, NY
+title: BH Freight House — Rheims, NY
 date: 2023-10-05 05:05:55 -4000
 tags: [freight-house, rheims]     # TAG names should always be lowercase
 image:

@@ -1,5 +1,5 @@
 ---
-title: B&H Covered Wharf — Hammondsport, NY
+title: BH Covered Wharf — Hammondsport, NY
 date: 2023-10-07 05:07:07 -4000
 tags: [covered-wharf, hammondsport]     # TAG names should always be lowercase
 image:

@@ -1,5 +1,5 @@
 ---
-title: B&H Passenger Station — Hammondsport, NY
+title: BH Passenger Station — Hammondsport, NY
 date: 2023-10-01 05:01:11 -4000
 tags: [passenger-station, hammondsport]     # TAG names should always be lowercase
 image:

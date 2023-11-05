@@ -1,5 +1,5 @@
 ---
-title: B&H Passenger Station — Rheims, NY
+title: BH Passenger Station — Rheims, NY
 date: 2023-10-02 05:02:22 -4000
 tags: [passenger-station, rheims]     # TAG names should always be lowercase
 image:

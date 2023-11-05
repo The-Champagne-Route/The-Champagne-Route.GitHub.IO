@@ -1,5 +1,5 @@
 ---
-title: B&H Freight House — Hammondsport, NY
+title: BH Freight House — Hammondsport, NY
 date: 2023-10-04 05:04:44 -4000
 tags: [freight-house, hammondsport]     # TAG names should always be lowercase
 image:
