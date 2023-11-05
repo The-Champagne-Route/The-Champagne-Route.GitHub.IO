@@ -2,14 +2,17 @@
 title: Timeline of the Champagne Route
 date: 2023-10-08 05:01:11 -4000
 tags: [timeline]     # TAG names should always be lowercase
+pin: true
 image:
   path: /assets/img/structures/slipway/steamer-mary-bell-slipway-hammondsport-ny.jpg
   lqip: /assets/img/structures/slipway/steamer-mary-bell-slipway-hammondsport-ny-lqip.jpg
   alt: Steamer Mary Bell in the Slipway at Hammondsport, NY — photo courtesy of Steuben County Historical Society — Kirk House, Director  
 ---
+
+
 ## 1872
 January 17
- : Bath & Hammondsport Railroad chartered by State of NY
+ : Bath & Hammondsport Railroad chartered by State of N.Y.[^footnote]
 
 ## 1875
 ### April 21
@@ -54,3 +57,8 @@ Erie Railroad
 ## 1908
 Erie Railroad acquires shares of the B&H
  : And obtains control
+
+Footnotes:
+
+[^footnote]: [Bath and Hammondsport Railroad Organized]({% post_url /timeline/1872-01-17-bath-hammondsport-railroad-organized %})
+[^fn-nth-2]: The 2nd footnote source
