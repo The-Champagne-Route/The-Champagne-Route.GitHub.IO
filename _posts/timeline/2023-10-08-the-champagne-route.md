@@ -74,5 +74,5 @@ Erie Railroad acquires shares of the B&H
 
 Footnotes:
 
-[^footnote]: [Bath and Hammondsport Railroad Organized]({% post_url /timeline/1872-01-17-bath-hammondsport-railroad-organized %})
+[^footnote]: [Bath and Hammondsport Railroad Organized]({% post_url /timeline/1872-01-17-incorporation-of-the-bath-hammondsport-railroad %})
 [^fn-nth-2]: The 2nd footnote source
