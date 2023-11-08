@@ -31,6 +31,11 @@ Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecena
 ![Desktop View](/assets/img/resources/railroads-you-can-model-1976.jpg){: width="150" .left}{: lqip="/assets/img/resources/railroads-you-can-model-1976-lqip.jpg" }
 Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
 
+## Charles R. Mitchell - Hammondsport and Keuka Lake - 1998
+
+![Desktop View](/assets/img/resources/hammondsport-and-keuka-lake-1998.jpg){: width="150" .left}{: lqip="/assets/img/resources/hammondsport-and-keuka-lake-1998-lqip.jpg" }
+Praesent maximus aliquam sapien. Sed vel neque in dolor pulvinar auctor. Maecenas pharetra, sem sit amet interdum posuere, tellus lacus eleifend magna, ac lobortis felis ipsum id sapien. Proin ornare rutrum metus, ac convallis diam volutpat sit amet. Phasellus volutpat, elit sit amet tincidunt mollis, felis mi scelerisque mauris, ut facilisis leo magna accumsan sapien. In rutrum vehicula nisl eget tempor. Nullam maximus ullamcorper libero non maximus. Integer ultricies velit id convallis varius. Praesent eu nisl eu urna finibus ultrices id nec ex. Mauris ac mattis quam. Fusce aliquam est nec sapien bibendum, vitae malesuada ligula condimentum.
+
 ## OST Magazine - O Scale Trains Magazine - Sep/Oct 2010
 
 ![Desktop View](/assets/img/resources/o-scale-trains-magazine-sep-oct-2010.jpg){: width="150" .left}{: lqip="/assets/img/resources/o-scale-trains-magazine-sep-oct-2010-lqip.jpg" }
